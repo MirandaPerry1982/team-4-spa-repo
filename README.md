@@ -1,8 +1,3 @@
-# Mystery  Educator
-
-## Application setup
-
-This application contains both `server side` and `client side` functionality.
 
 ## Install Instructions
 - `clone` this application
